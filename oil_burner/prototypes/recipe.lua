@@ -27,10 +27,10 @@ data:extend({
     category = "oil-burner-recipe",
     enabled = true,
     hide_from_player_crafting = true,
-    energy_required = 5,
+    energy_required = 30,
     ingredients =
     {
-        {type="fluid", name="crude-oil", amount=5}
+        {type="fluid", name="crude-oil", amount=25}
     },
     results = {},
     icon = "__base__/graphics/icons/fluid/crude-oil.png",
@@ -45,10 +45,10 @@ data:extend({
     category = "oil-burner-recipe",
     enabled = true,
     hide_from_player_crafting = true,
-    energy_required = 5,
+    energy_required = 30,
     ingredients =
     {
-        {type="fluid", name="light-oil", amount=5}
+        {type="fluid", name="light-oil", amount=25}
     },
     results = {},
     icon = "__base__/graphics/icons/fluid/light-oil.png",
@@ -63,10 +63,10 @@ data:extend({
     category = "oil-burner-recipe",
     enabled = true,
     hide_from_player_crafting = true,
-    energy_required = 5,
+    energy_required = 30,
     ingredients =
     {
-        {type="fluid", name="heavy-oil", amount=5}
+        {type="fluid", name="heavy-oil", amount=25}
     },
     results = {},
     icon = "__base__/graphics/icons/fluid/heavy-oil.png",
@@ -81,10 +81,10 @@ data:extend({
     category = "oil-burner-recipe",
     enabled = true,
     hide_from_player_crafting = true,
-    energy_required = 5,
+    energy_required = 30,
     ingredients =
     {
-        {type="fluid", name="petroleum-gas", amount=5}
+        {type="fluid", name="petroleum-gas", amount=25}
     },
     results = {},
     icon = "__base__/graphics/icons/fluid/petroleum-gas.png",
@@ -99,10 +99,10 @@ data:extend({
     category = "oil-burner-recipe",
     enabled = true,
     hide_from_player_crafting = true,
-    energy_required = 5,
+    energy_required = 30,
     ingredients =
     {
-        {type="fluid", name="lubricant", amount=5}
+        {type="fluid", name="lubricant", amount=25}
     },
     results = {},
     icon = "__base__/graphics/icons/fluid/lubricant.png",

@@ -31,7 +31,7 @@ data:extend({
         {
           type = "electric",
           usage_priority = "secondary-input",
-          emissions_per_minute = 20
+          emissions_per_minute = 50
         },
         energy_usage = "20kW",
 
