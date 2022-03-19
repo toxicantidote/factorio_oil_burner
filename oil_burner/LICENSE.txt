@@ -1,0 +1,6 @@
+Project homepage: https://toxicantidote.net/articles/coding/lua-factorio-oil-burner.shtml
+Github: https://github.com/toxicantidote/factorio_oil_burner/
+
+Distributed under the terms of the Creative Commons BY-NC-SA 4.0 license
+
+See https://creativecommons.org/licenses/by-nc-sa/4.0/ for full details.

@@ -1,0 +1,4 @@
+Version: 0.0.1
+Date: 2022.03.19
+  About:
+    - First version. Tested on Factorio v1.1.53
