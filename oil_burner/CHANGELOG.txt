@@ -1,3 +1,9 @@
+Version: 0.0.2
+Date: 2022.03.20
+  About:
+    - Fixed up graphical issues caused by smoke overlay.
+    - Still has glitch where you can only use one pipe.
+--------------
 Version: 0.0.1
 Date: 2022.03.19
   About:
