@@ -1,8 +1,8 @@
 {
   "name": "oil_burner",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "title": "Oil burner",
-  "author": "toxicantidote",
+  "author": "nibbler",
   "homepage": "https://toxicantidote.net/articles/coding/lua-factorio-oil-burner.shtml",
   "description": "Too much of one type of oil? Turn it in to pollution instead!",
   "factorio_version": "2.0",

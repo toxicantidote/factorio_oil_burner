@@ -1,3 +1,9 @@
+Version 0.0.5
+Date: 2024.10.25
+  About:
+    - Apparently the modding API is more explicit about a bunch of things now.
+    - Refactored entity code to recycle the base game oil-refinery entity.
+--------------
 Version: 0.0.4
 Date: 2024.10.25
   About:
