@@ -1,3 +1,8 @@
+Version 0.0.6
+Date: 2026.10.09
+  About:
+     - Added Russian localisation contributed by ontalex/Алексей Борисов.
+--------------
 Version 0.0.5
 Date: 2024.10.25
   About:
